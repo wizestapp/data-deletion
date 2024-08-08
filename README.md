@@ -51,3 +51,4 @@ If you have any questions or concerns about the data deletion process, please do
 
 We take data protection seriously and are committed to ensuring the security and confidentiality of your personal data. Our data deletion process is designed to be transparent, efficient, and secure.
 Thank you for entrusting us with your data. We appreciate your trust and confidence in Wizest.
+
